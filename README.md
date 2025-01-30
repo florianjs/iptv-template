@@ -7,6 +7,18 @@ A modern streaming platform built with Nuxt 3 and Nuxt Content, featuring a beau
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D.svg)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC.svg)
 
+## ✨ Showcase
+
+A beautiful and modern streaming platform template with:
+
+- 🎬 Stunning video player interface with Plyr
+- 🎨 Clean and responsive design using Tailwind CSS
+- 📱 Mobile-first approach with smooth animations
+- ⚡️ Lightning-fast performance with Nuxt 3
+- 🔥 Built with the latest web technologies
+
+[View Demo](https://iptv-template.pages.dev) · [Report Bug](https://github.com/florianjs/iptv-template/issues) · [Request Feature](https://github.com/florianjs/iptv-template/issues)
+
 ## ✨ Features
 
 - 🎥 Video streaming with Plyr player integration
