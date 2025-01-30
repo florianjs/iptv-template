@@ -9,7 +9,7 @@ A modern streaming platform built with Nuxt 3 and Nuxt Content, featuring a beau
 
 ## ✨ Showcase
 
-![IPTV Template Preview](https://raw.githubusercontent.com/florianjs/iptv-template/main/public/iptv.gif)
+![IPTV Template Preview](https://github.com/florianjs/iptv-template/blob/main/public/iptv.gif?raw=true)
 
 [▶️ Watch Full Video Preview](https://github.com/florianjs/iptv-template/raw/refs/heads/main/public/iptv.mp4)
 
