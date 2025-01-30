@@ -9,6 +9,10 @@ A modern streaming platform built with Nuxt 3 and Nuxt Content, featuring a beau
 
 ## ✨ Showcase
 
+![IPTV Template Preview](https://raw.githubusercontent.com/florianjs/iptv-template/main/public/iptv.gif)
+
+[▶️ Watch Full Video Preview](https://github.com/florianjs/iptv-template/raw/refs/heads/main/public/iptv.mp4)
+
 A beautiful and modern streaming platform template with:
 
 - 🎬 Stunning video player interface with Plyr
@@ -17,7 +21,7 @@ A beautiful and modern streaming platform template with:
 - ⚡️ Lightning-fast performance with Nuxt 3
 - 🔥 Built with the latest web technologies
 
-[View Demo](https://iptv-template.pages.dev) · [Report Bug](https://github.com/florianjs/iptv-template/issues) · [Request Feature](https://github.com/florianjs/iptv-template/issues)
+[View Demo](https://iptv.0xexile.com/) · [Report Bug](https://github.com/florianjs/iptv-template/issues) · [Request Feature](https://github.com/florianjs/iptv-template/issues)
 
 ## ✨ Features
 
@@ -44,7 +48,7 @@ A beautiful and modern streaming platform template with:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fiverr-iptv.git
+git clone https://github.com/florianjs/iptv-template
 cd fiverr-iptv
 ```
 
