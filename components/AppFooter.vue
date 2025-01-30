@@ -239,8 +239,9 @@
             reserved. Built with ❤️ using Nuxt 3.
           </p>
           <div class="flex items-center space-x-4">
-            <a
-              href="https://github.com/your-username/fiverr-iptv"
+            <NuxtLink
+              external
+              to="https://github.com/florianjs/iptv-template"
               target="_blank"
               rel="noopener noreferrer"
               class="group flex items-center space-x-2 text-xs text-zinc-400 hover:text-white transition-colors"
@@ -257,9 +258,10 @@
                 />
               </svg>
               <span>Star on GitHub</span>
-            </a>
-            <a
-              href="https://twitter.com/share?url=https://your-domain.com&text=Check out this awesome IPTV streaming platform!"
+            </NuxtLink>
+            <NuxtLink
+              external
+              to="https://twitter.com/share?url=https://your-domain.com&text=Check out this awesome IPTV streaming platform!"
               target="_blank"
               rel="noopener noreferrer"
               class="group flex items-center space-x-2 text-xs text-zinc-400 hover:text-white transition-colors"
@@ -274,14 +276,10 @@
                 />
               </svg>
               <span>Share on Twitter</span>
-            </a>
+            </NuxtLink>
           </div>
         </div>
       </div>
     </div>
   </footer>
 </template>
-
-<script setup lang="ts">
-// Component is fully static, no additional logic needed
-</script>
