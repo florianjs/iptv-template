@@ -1,0 +1,16 @@
+{
+  "title": "Inception",
+  "mediaUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+  "mediaThumbnail": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+  "mediaType": "video/mp4",
+  "tags": ["Movies", "Sci-Fi"],
+  "category": ["Action", "Sci-Fi"],
+  "description": "A thief who enters the dreams of others to steal secrets from their subconscious is offered a chance to regain his old life in exchange for a task considered impossible: inception.",
+  "quality": "4K",
+  "duration": "2:28:00",
+  "ageRating": "PG-13",
+  "additionalInfo": "Released in 2010",
+  "slug": "inception",
+  "genres": ["Action", "Sci-Fi", "Thriller"],
+  "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"]
+}

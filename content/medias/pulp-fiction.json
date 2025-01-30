@@ -1,0 +1,16 @@
+{
+  "title": "Pulp Fiction",
+  "mediaUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+  "mediaThumbnail": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "mediaType": "video/mp4",
+  "tags": ["Movies", "Crime"],
+  "category": ["Crime", "Drama"],
+  "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+  "quality": "4K",
+  "duration": "2:34:00",
+  "ageRating": "R",
+  "additionalInfo": "Released in 1994",
+  "slug": "pulp-fiction",
+  "genres": ["Crime", "Drama"],
+  "actors": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"]
+}

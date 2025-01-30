@@ -1,0 +1,16 @@
+{
+  "title": "Dune",
+  "mediaUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+  "mediaThumbnail": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "mediaType": "video/mp4",
+  "tags": ["Movies", "Sci-Fi"],
+  "category": ["Sci-Fi", "Adventure", "Drama"],
+  "description": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.",
+  "quality": "4K",
+  "duration": "2:35:00",
+  "ageRating": "PG-13",
+  "additionalInfo": "Released in 2021",
+  "slug": "dune",
+  "genres": ["Sci-Fi", "Adventure", "Drama"],
+  "actors": ["Timothée Chalamet", "Rebecca Ferguson", "Zendaya"]
+}

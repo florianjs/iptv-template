@@ -1,0 +1,16 @@
+{
+  "title": "The Dark Knight",
+  "mediaUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+  "mediaThumbnail": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+  "mediaType": "video/mp4",
+  "tags": ["Movies", "Action"],
+  "category": ["Action", "Crime", "Drama"],
+  "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+  "quality": "4K",
+  "duration": "2:32:00",
+  "ageRating": "PG-13",
+  "additionalInfo": "Released in 2008",
+  "slug": "the-dark-knight",
+  "genres": ["Action", "Crime", "Drama"],
+  "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]
+}

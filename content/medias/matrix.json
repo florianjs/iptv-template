@@ -1,0 +1,16 @@
+{
+  "title": "The Matrix",
+  "mediaUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+  "mediaThumbnail": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "mediaType": "video/mp4",
+  "tags": ["Movies", "Sci-Fi"],
+  "category": ["Action", "Sci-Fi"],
+  "description": "A computer programmer discovers that reality as he knows it is a simulation created by machines, and joins a rebellion to break free from the system.",
+  "quality": "4K",
+  "duration": "2:16:00",
+  "ageRating": "R",
+  "additionalInfo": "Released in 1999",
+  "slug": "matrix",
+  "genres": ["Action", "Sci-Fi"],
+  "actors": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"]
+}

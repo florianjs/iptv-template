@@ -1,0 +1,16 @@
+{
+  "title": "Joker",
+  "mediaUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+  "mediaThumbnail": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "mediaType": "video/mp4",
+  "tags": ["Movies", "Drama"],
+  "category": ["Crime", "Drama", "Thriller"],
+  "description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+  "quality": "4K",
+  "duration": "2:02:00",
+  "ageRating": "R",
+  "additionalInfo": "Released in 2019",
+  "slug": "joker",
+  "genres": ["Crime", "Drama", "Thriller"],
+  "actors": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"]
+}

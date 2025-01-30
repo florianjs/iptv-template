@@ -1,0 +1,16 @@
+{
+  "title": "Blade Runner 2049",
+  "mediaUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+  "mediaThumbnail": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg",
+  "mediaType": "video/mp4",
+  "tags": ["Movies", "Sci-Fi"],
+  "category": ["Sci-Fi", "Drama", "Mystery"],
+  "description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+  "quality": "4K",
+  "duration": "2:44:00",
+  "ageRating": "R",
+  "additionalInfo": "Released in 2017",
+  "slug": "blade-runner-2049",
+  "genres": ["Sci-Fi", "Drama", "Mystery"],
+  "actors": ["Ryan Gosling", "Harrison Ford", "Ana de Armas"]
+}
