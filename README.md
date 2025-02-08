@@ -7,18 +7,17 @@ A modern streaming platform built with Nuxt 3 and Nuxt Content, featuring a beau
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D.svg)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC.svg)
 
+
 ## 💝 Support My Work
 
-<div align="center">
-  <a href="https://patreon.com/0xExile">
-    <img src="https://img.shields.io/badge/Sponsor_on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Sponsor on Patreon" />
-  </a>
-</div>
+[![NuxtMint](https://nuxtmint.com/nuxt-mint-logo.png)](https://nuxtmint.com)
 
-<p align="center">
-  <strong>🌟 Get Exclusive Access to Premium Content! 🌟</strong><br>
-  Sponsor me on Patreon and get exclusive access to full Nuxt Apps with stunning designs,<br>components, and exclusive content!
-</p>
+> This template and many others are available at [NuxtMint.com](https://nuxtmint.com)
+
+[![Discord](https://img.shields.io/badge/Discord-Join_Us!-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/dZF8tDgBrM)
+
+> Join our friendly Discord community to get help, share your ideas, and connect with other developers!
+
 
 ## ✨ Showcase
 
